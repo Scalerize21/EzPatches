@@ -1,1 +1,1 @@
-# EzPatches
+Placeholder for a future CPP project.
